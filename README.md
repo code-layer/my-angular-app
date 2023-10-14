@@ -15,13 +15,13 @@ Another setion to display Employee information.
 
 ## Demo App
 
-Watch live app at demo site https://nosqlapi.datalayer.in/
+Watch live app at <a href="https://nosqlapi.datalayer.in/" target="_blank">demo site</a>
 
 Click on any employee row's 'info' link.
 Displays employee info at the lower section of page.
 
 ## Links
-[Datalayer](https://datalayer.in/){:target="_blank"}
+<a href="https://datalayer.in" target="_blank">Datalayer</a>
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue.
