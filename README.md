@@ -2,7 +2,7 @@
 Sample angular app using no code mongo APIs
 
 
-## Abount App
+## About App
 Sample Datalayer app build using Angular framework to show our priniple of "Build enterprise apis services workers and apps".
 Do not worry about infrastructure and maintenance tasks.
 
@@ -11,13 +11,13 @@ Do not worry about infrastructure and maintenance tasks.
 
 Sample app is built on principle of SPA ( Single Page App).
 Mainly consists of single page with two sections.a section to display emloyees in databular layout.
-Another setion to display Employee information.
+Another setion to display employee information.
 
 ## Demo App
 
 Watch live app at <a href="https://nosqlapi.datalayer.in/" target="_blank">demo site</a>
 
-Click on any employee row's 'info' link.
+Click on any employee row 'info' link.
 Displays employee info at the lower section of page.
 
 ## Links
