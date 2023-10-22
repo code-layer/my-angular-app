@@ -15,7 +15,7 @@ Another setion to display employee information.
 
 ## Demo App
 
-Watch live app at <a href="https://nosqlapi.datalayer.in/" target="_blank">demo site</a>
+Watch live app at <a href="https://my-angular-app.datalayer.in/" target="_blank">demo site</a>
 
 Click on any employee row 'info' link.
 Displays employee info at the lower section of page.
